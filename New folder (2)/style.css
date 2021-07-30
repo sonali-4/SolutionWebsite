@@ -1,0 +1,114 @@
+.topnav {
+  background-color: #ffff;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ffff;
+  color: black;
+}
+
+/* Add an active class to highlight the current page */
+.topnav a.active {
+  background-color: #ffff;
+  color: rgb(0, 0, 0);
+  
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+.content{
+  padding: 0%;
+  margin-left: 60px;
+margin-top: 100px;
+  line-height:6px;
+  font-weight:700;
+  font-size: 40px;
+}
+.content-p{
+  margin-left: 60px;
+  line-height :1rem;
+}
+
+
+}
+.start-info .btn{
+    cursor: pointer;
+   
+}
+.start-info .btn{
+   border: 1.5px solid #ddd;
+    border-radius: 25px;
+    text-align: center;
+    padding: 15px 32px;
+    outline: 0;
+    margin-left: 60px;
+    font-weight: 500;
+    
+    
+    background-color: rgb(59, 120, 241);
+    font-size : 16px;
+    transition: all 0.5s ease;
+}
+.company{
+  margin-left:40px;
+  margin-top:60px;
+  padding :10px 32px;
+  word-spacing: 15px;
+  color:#000000;
+
+
+}
+    
+
+.image{
+  float: right;
+  padding:15px;
+  margin :0.3 rem;
+  height:50px;
+  
+  margin-right:340px;
+  
+    transition: all 0.5s ease;
+
+}
+.access{
+  border: 1.5px solid rgb(33, 146, 211);
+    border-radius: 25px;
+    text-align: center;
+    padding: 15px 32px;
+    outline: 0;
+    margin-left: 60px;
+    font-weight: 500;
+    float:right;
+    margin-top:10px;
+    
+    
+    font-size : 20px;
+    outline-style:solid;
+    background-color: #fff;
+    outline-color:blue;
+    outline-radius: 30px;
+        transition: all 0.5s ease;
+  
+  
+  
+  
+
+
+
+}
